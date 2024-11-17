@@ -1,22 +1,22 @@
-## RTB Homebrew repository
+# Welcome to RTB Homebrew on GitHub
 
-Welcome to my hardware and software projects supporting my model railroad hobby.
+[RTB](https://rtb4dcc.de) (Real Time Bus) is the codename for my homebrew hardware and software projects related to my model railway hobby. Whenever a project reaches a stable state, I switch the repo to public.
 
-# Mobile Decoders
+## Mobile Decoders
 | Project  | Description |
 | --- | --- |
 | **[RTB_D16](https://github.com/git4dcc/RTB_D16)** | DCC/Railcom Loco Decoder with NEM-651 (single sided) |
 | **[RTB_D20](https://github.com/git4dcc/RTB_D20)** | DCC/Railcom Loco Decoder with NEM-651 (double sided) |
 | **[RTB_D21](https://github.com/git4dcc/RTB_D21)** | DCC/Railcom Loco Decoder with Next18 (double sided) |
 
-# Accessory
+## Accessory
 | Project  | Description |
 | --- | --- |
 | **[RTB_E10](https://github.com/git4dcc/RTB_E10)** | 16 channel WS2811 emulator |
 | **[RTB_E13](https://github.com/git4dcc/RTB_E13)** | 12 channel WS2811 emulator for multiplex signals (variable voltage) |
 | **[RTB_E15](https://github.com/git4dcc/RTB_E15)** | 12 channel WS2811 emulator for multiplex signals (fixed voltage) |
 
-# Debugging / Development
+## Debugging / Development
 | Project  | Description |
 | --- | --- |
 | **[RTB_C02](https://github.com/git4dcc/RTB_C02)** | DCC/Railcom logger and debugger |
