@@ -1,6 +1,6 @@
-## Welcome to my Homebrew repository
+## RTB Homebrew repository
 
-My hardware and software projects are all about supporting the model railroad hobby.
+Welcome to my hardware and software projects supporting my model railroad hobby.
 
 # Mobile Decoders
 | Project  | Description |
