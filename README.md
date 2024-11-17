@@ -1,6 +1,6 @@
 # Welcome to RTB Homebrew on GitHub
 
-[RTB](https://rtb4dcc.de) (Real Time Bus) is the codename for my homebrew hardware and software projects related to my model railway hobby. Whenever a project reaches a stable state, I switch the repo to public.
+[RTB](https://rtb4dcc.de) (Real Time Bus) is the codename for my home crafted hardware and software projects related to my model railway hobby. Whenever a project reaches a stable state, I switch the repo to public.
 
 ## Mobile Decoders
 | Project  | Description |
