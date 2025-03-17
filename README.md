@@ -12,6 +12,7 @@
 | **[RTB_D20](https://github.com/git4dcc/RTB_D20)** | DCC decoder with NEM-651 (double sided) |
 | **[RTB_D21](https://github.com/git4dcc/RTB_D21)** | DCC decoder with Next18 (double sided) |
 | **[RTB_D22](https://github.com/git4dcc/RTB_D22)** | DCC decoder with Plux16 (double sided) |
+| **[RTB_D23](https://github.com/git4dcc/RTB_D23)** | DCC decoder with NEM-652 (double sided) |
 
 ## Accessory
 <img src="https://rtb4dcc.de/wp-content/uploads/2023/10/un_Wow7.jpg" width=300>
