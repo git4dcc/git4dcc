@@ -7,8 +7,9 @@
 
 | Project  | Description |
 | --- | --- |
-| **[RTB_D12](https://github.com/git4dcc/RTB_D12)** | DCC custom Decoder for Fleischmann V100 (#7230) |
-| **[RTB_D13](https://github.com/git4dcc/RTB_D13)** | LED decoder for minitrix coach |
+| **[RTB_D12](https://github.com/git4dcc/RTB_D12)** | DCC custom decoder for Fleischmann V100 (#7230) |
+| **[RTB_D13](https://github.com/git4dcc/RTB_D13)** | LED decoder for minitrix 2nd class couchette (#15791) |
+| **[RTB_D15](https://github.com/git4dcc/RTB_D15)** | DCC custom decoder for Minitrix V160 (#11130) |
 | **[RTB_D16](https://github.com/git4dcc/RTB_D16)** | DCC decoder with NEM-651 (single sided) |
 | **[RTB_D20](https://github.com/git4dcc/RTB_D20)** | DCC decoder with NEM-651 (double sided) |
 | **[RTB_D21](https://github.com/git4dcc/RTB_D21)** | DCC decoder with Next18 (double sided) |
