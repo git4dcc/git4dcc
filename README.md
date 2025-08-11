@@ -3,7 +3,7 @@
 [RTB](https://rtb4dcc.de) (Real Time Bus) is the codename for my home crafted hardware and software projects related to my model railway hobby. Whenever a project reaches a stable state, I switch the repo to public.
 
 ## Mobile Decoders
-The mobile decoders support DCC/Railcom and are primarily designed for N and TT gauge railways.
+The mobile [decoders](https://rtb4dcc.de/hardware/decoder/) support DCC/Railcom and are primarily designed for N and TT gauge railways.
 
 <img src="https://rtb4dcc.de/wp-content/uploads/2023/10/un_Wow4.jpg" width=300>
 
