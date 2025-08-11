@@ -3,6 +3,8 @@
 [RTB](https://rtb4dcc.de) (Real Time Bus) is the codename for my home crafted hardware and software projects related to my model railway hobby. Whenever a project reaches a stable state, I switch the repo to public.
 
 ## Mobile Decoders
+The mobile decoders support DCC/Railcom and are primarily designed for N and TT gauge railways.
+
 <img src="https://rtb4dcc.de/wp-content/uploads/2023/10/un_Wow4.jpg" width=300>
 
 | Project  | Description |
@@ -17,11 +19,15 @@
 | **[RTB_D23](https://github.com/git4dcc/RTB_D23)** | DCC decoder with NEM-652 (double sided) |
 
 ## Layout Infrastructure
+The RTB  infrastructure modules are designed for building [modular](https://rtb4dcc.de/concept/topologies/) railway layouts.
+
 <img src="https://rtb4dcc.de/wp-content/uploads/2024/11/un_Examples1-768x469.jpg" width=300>
 
 | Project  | Description |
 | --- | --- |
 | **[RTB_C10](https://github.com/git4dcc/RTB_C10)** | RTB Bus Master |
+| **RTB_C12** (pending) | RTB Micro Booster |
+| **RTB_P15** (pending) | RTB Base Board |
 
 ## Accessory
 <img src="https://rtb4dcc.de/wp-content/uploads/2023/10/un_Wow7.jpg" width=300>
