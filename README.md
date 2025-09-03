@@ -26,7 +26,7 @@ The RTB  infrastructure modules are designed for building [modular](https://rtb4
 | Project  | Description |
 | --- | --- |
 | **[RTB_C10](https://github.com/git4dcc/RTB_C10)** | RTB Bus Master |
-| **RTB_C12** (pending) | RTB Micro Booster |
+| **[RTB_C12](https://github.com/git4dcc/RTB_C12)** | RTB Micro Booster |
 | **RTB_P15** (pending) | RTB Base Board |
 
 ## Accessory
