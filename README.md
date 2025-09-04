@@ -27,7 +27,7 @@ The RTB  infrastructure modules are designed for building [modular](https://rtb4
 | --- | --- |
 | **[RTB_C10](https://github.com/git4dcc/RTB_C10)** | RTB Bus Master |
 | **[RTB_C12](https://github.com/git4dcc/RTB_C12)** | RTB Micro Booster |
-| **RTB_P15** (pending) | RTB Base Board |
+| **[RTB_P15](https://github.com/git4dcc/RTB_P15)** | RTB Base Board (/w isolated DC/DC step-up converter 5V->12V, 250mA)|
 
 ## Accessory
 <img src="https://rtb4dcc.de/wp-content/uploads/2023/10/un_Wow7.jpg" width=300>
