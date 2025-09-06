@@ -35,7 +35,7 @@ The RTB  infrastructure modules are designed for building [modular](https://rtb4
 | Project  | Description |
 | --- | --- |
 | **[RTB_E10](https://github.com/git4dcc/RTB_E10)** | 16 channel WS2811 emulator |
-| **[RTB_E12](https://github.com/git4dcc/RTB_E12)** | 12 channel WS2811 for embedding |
+| **[RTB_E12](https://github.com/git4dcc/RTB_E12)** | 12 channel WS2811 (native) for embedding |
 | **[RTB_E13](https://github.com/git4dcc/RTB_E13)** | 12 channel WS2811 emulator for multiplex signals (variable voltage) |
 | **[RTB_E15](https://github.com/git4dcc/RTB_E15)** | 12 channel WS2811 emulator for multiplex signals (fixed voltage) |
 
