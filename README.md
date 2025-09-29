@@ -23,8 +23,10 @@ The RTB  infrastructure modules are designed for building [modular](https://rtb4
 
 <img src="https://rtb4dcc.de/wp-content/uploads/2024/11/un_Examples1-768x469.jpg" width=300>
 
+
 | Project  | Description |
 | --- | --- |
+| [![Real-time Bus (RTB)](https://img.shields.io/badge/RTB_suite-66FF33)](https://github.com/git4dcc/RTB_suite) | RTB software suite (Windows x64) |
 | **[RTB_C10](https://github.com/git4dcc/RTB_C10)** | RTB Bus Master |
 | **[RTB_C12](https://github.com/git4dcc/RTB_C12)** | RTB Micro Booster |
 | **[RTB_P15](https://github.com/git4dcc/RTB_P15)** | RTB Base Board (/w isolated DC/DC step-up)|
