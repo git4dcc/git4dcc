@@ -18,6 +18,12 @@ The mobile [decoders](https://rtb4dcc.de/hardware/decoder/) support DCC/Railcom 
 | **[RTB_D22](https://github.com/git4dcc/RTB_D22)** | DCC decoder with Plux16 (double sided) |
 | **[RTB_D23](https://github.com/git4dcc/RTB_D23)** | DCC decoder with NEM-652 (double sided) |
 
+--
+
+| Project  | Description |
+| --- | --- |
+| **[RTB_D99](https://github.com/git4dcc/RTB_D99)** | Modular LED decoder **prototype** |
+
 ## Layout Infrastructure
 The RTB  infrastructure modules are designed for building [modular](https://rtb4dcc.de/concept/topologies/) railway layouts.
 
