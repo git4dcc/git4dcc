@@ -22,6 +22,7 @@ The mobile [decoders](https://rtb4dcc.de/hardware/decoder/) support DCC/Railcom 
 
 | Project  | Description |
 | --- | --- |
+| **[RTB_D97](https://github.com/git4dcc/RTB_D97)** | Function decoder toolkit (design your own DCC decoder) |
 | **[RTB_D99](https://github.com/git4dcc/RTB_D99)** | Modular LED decoder **prototype** |
 
 ## Layout Infrastructure
