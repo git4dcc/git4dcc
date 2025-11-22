@@ -18,12 +18,20 @@ The mobile [decoders](https://rtb4dcc.de/hardware/decoder/) support DCC/Railcom 
 | **[RTB_D22](https://github.com/git4dcc/RTB_D22)** | DCC decoder with Plux16 (double sided) |
 | **[RTB_D23](https://github.com/git4dcc/RTB_D23)** | DCC decoder with NEM-652 (double sided) |
 
---
+<br>
+
+## Experimental :sparkles:
+The alchemy of DCC decoders.
+
+<img src="https://rtb4dcc.de/wp-content/uploads/2025/09/Blog_Decoder_Dev1.jpg" width=300>
 
 | Project  | Description |
 | --- | --- |
 | **[RTB_D97](https://github.com/git4dcc/RTB_D97)** | Function decoder toolkit (design your own DCC decoder) |
-| **[RTB_D99](https://github.com/git4dcc/RTB_D99)** | Modular LED decoder **prototype** |
+| **RTB_D98** | ``coming soon`` |
+| **[RTB_D99](https://github.com/git4dcc/RTB_D99)** | Modular LED decoder prototype |
+
+<br>
 
 ## Layout Infrastructure
 The RTB  infrastructure modules are designed for building [modular](https://rtb4dcc.de/concept/topologies/) railway layouts.
@@ -40,6 +48,8 @@ The RTB  infrastructure modules are designed for building [modular](https://rtb4
 | **[RTB_C13](https://github.com/git4dcc/RTB_C13)** | RTB 4-way Track Sensor |
 | **[RTB_P15](https://github.com/git4dcc/RTB_P15)** | RTB Base Board (/w isolated DC/DC step-up)|
 
+<br>
+
 ## Accessory
 <img src="https://rtb4dcc.de/wp-content/uploads/2023/10/un_Wow7.jpg" width=300>
 
@@ -49,6 +59,8 @@ The RTB  infrastructure modules are designed for building [modular](https://rtb4
 | **[RTB_E12](https://github.com/git4dcc/RTB_E12)** | 12 channel WS2811 (native) for embedding |
 | **[RTB_E13](https://github.com/git4dcc/RTB_E13)** | 12 channel WS2811 emulator for multiplex signals (variable voltage) |
 | **[RTB_E15](https://github.com/git4dcc/RTB_E15)** | 12 channel WS2811 emulator for multiplex signals (fixed voltage) |
+
+<br>
 
 ## Debugging / Development
 <img src="https://rtb4dcc.de/wp-content/uploads/2024/10/RTB_lab1.jpg" width=300>
