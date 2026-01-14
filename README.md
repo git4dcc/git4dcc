@@ -2,10 +2,10 @@
 
 [RTB](https://rtb4dcc.de) (Real Time Bus) is the codename for my home crafted hardware and software projects related to my model railway hobby. Whenever a project reaches a stable state, I switch the repo to public.
 
-## Mobile Decoders
-The mobile [decoders](https://rtb4dcc.de/hardware/decoder/) support DCC/Railcom and are primarily designed for N and TT gauge railways.
-
+## 🔸 Mobile Decoders
 <img src="https://rtb4dcc.de/wp-content/uploads/2023/10/un_Wow4.jpg" width=300>
+
+My homebrew mobile [decoders](https://rtb4dcc.de/hardware/decoder/) support DCC/Railcom and are primarily designed for N and TT gauge railways.
 
 | Project  | Description |
 | --- | --- |
@@ -20,10 +20,10 @@ The mobile [decoders](https://rtb4dcc.de/hardware/decoder/) support DCC/Railcom 
 
 <br>
 
-## Experimental :sparkles:
-The alchemy of DCC decoders.
-
+## 🔸Experimental
 <img src="https://rtb4dcc.de/wp-content/uploads/2025/09/Blog_Decoder_Dev1.jpg" width=300>
+
+The alchemy of DCC decoders.
 
 | Project  | Description |
 | --- | --- |
@@ -33,10 +33,16 @@ The alchemy of DCC decoders.
 
 <br>
 
-## Layout Infrastructure
-The RTB  infrastructure modules are designed for building [modular](https://rtb4dcc.de/concept/topologies/) railway layouts.
-
+## 🔸 Layout Infrastructure
 <img src="https://rtb4dcc.de/wp-content/uploads/2024/11/un_Examples1-768x469.jpg" width=300>
+
+The RTB infrastructure modules are designed for building [modular](https://rtb4dcc.de/concept/topologies/) railway layouts.
+Here a few feature highlights,
+
++ Decoder update capability (RTB decoder, Zimo MX decoder, Zimo MN/MS decoder)
++ Decoder DCC standard compliance testing
++ Fully features DCC/Railcom command station
++ Powerful extensible layout bus
 
 
 | Project  | Description |
@@ -50,7 +56,7 @@ The RTB  infrastructure modules are designed for building [modular](https://rtb4
 
 <br>
 
-## Accessory
+## 🔸 Accessory 
 <img src="https://rtb4dcc.de/wp-content/uploads/2023/10/un_Wow7.jpg" width=300>
 
 | Project  | Description |
@@ -62,7 +68,7 @@ The RTB  infrastructure modules are designed for building [modular](https://rtb4
 
 <br>
 
-## Debugging / Development
+## 🐞 Debugging / Development 
 <img src="https://rtb4dcc.de/wp-content/uploads/2024/10/RTB_lab1.jpg" width=300>
 
 | Project  | Description |
