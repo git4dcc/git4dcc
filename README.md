@@ -22,7 +22,7 @@ The **RTB infrastructure software suite** is a distributed model railway control
 The RTB infrastructure modules are designed for building [modular](https://rtb4dcc.de/concept/topologies/) railway layouts.
 Here a few feature highlights,
 
-+ Decoder update capability (RTB decoder, Zimo MX decoder, Zimo MN/MS decoder)
++ Decoder update capability (Zimo(MX,MN,MS), D&H and RTB decoder)
 + Decoder DCC standard compliance testing
 + Fully features DCC/Railcom command station
 + Powerful extensible layout bus
