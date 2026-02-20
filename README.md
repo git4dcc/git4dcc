@@ -64,7 +64,7 @@ The alchemy of DCC decoders.
 | Project Repo | Description |
 | --- | --- |
 | **[RTB_D97](/../../../../git4dcc/RTB_D97)** | DCC function decoder toolkit (design your own DCC decoder) |
-| **[RTB_D98](/../../../../git4dcc/RTB_D98)** |  Dcc function decoder NEM-651 |
+| **[RTB_D98](/../../../../git4dcc/RTB_D98)** | DCC function decoder NEM-651 |
 | **[RTB_D99](/../../../../git4dcc/RTB_D99)** | Modular LED decoder prototype |
 
 <br>
