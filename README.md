@@ -5,7 +5,7 @@
 <br>
 
 ## 🔸 RTB infrastructure software suite
-<img src="https://rtb4dcc.de/wp-content/uploads/2023/07/un_cli_architecture2.png" width=300>
+<img src="https://rtb4dcc.de/wp-content/uploads/2026/04/Screenshot-2026-03-22-184152.png">
 
 The **RTB infrastructure software suite** is a distributed model railway control system utilizing a high-performance client-server architecture. Designed for scalability across multiple networked PCs, it ensures seamless synchronization by signaling all state changes to connected clients in real-time.
 
