@@ -53,6 +53,7 @@ My homebrew mobile [decoders](https://rtb4dcc.de/hardware/decoder/) support DCC/
 | **[RTB_D21](/../../../../git4dcc/RTB_D21)** | DCC decoder with Next18 (double sided) |
 | **[RTB_D22](/../../../../git4dcc/RTB_D22)** | DCC decoder with Plux16 (double sided) |
 | **[RTB_D23](/../../../../git4dcc/RTB_D23)** | DCC decoder with NEM-652 (double sided) |
+| **[RTB_D24](/../../../../git4dcc/RTB_D24)** | DCC decoder with NEM-651 (single sided) /w WS28xx bus |
 
 <br>
 
