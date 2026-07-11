@@ -11,8 +11,9 @@ The **RTB infrastructure software suite** is a distributed model railway control
 
 
 | Project Repo  | Description |
-| --- | --- |
-| **[RTB client server](/../../../../git4dcc/RTB_suite)** | RTB infrastructure software suite (Windows x64) |
+| :---: | --- |
+| **[RTB client server](/../../../../git4dcc/RTB_suite)** | RTB infrastructure software repo |
+| **[Download](/../../../../git4dcc/RTB_suite/blob/main/x64/RtbSuite.zip)** | most recent RtbSuite zip |
 
 <br>
 
